@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Веб-дизайн - профессия будущего</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .links {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        a {
+            color: #2196f3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Веб-дизайн: Творчество и Технологии</h1>
+        <p>Профессия, которая меняет цифровой мир</p>
+    </div>
+
+    <div class="section">
+        <h2>Почему веб-дизайн — это круто?</h2>
+        <ul>
+            <li>💻 <strong>Творчество + технологии</strong> - идеальное сочетание</li>
+            <li>🚀 <strong>Высокий спрос</strong> на специалистов</li>
+            <li>💼 <strong>Возможность работать</strong> из любой точки мира</li>
+            <li>📈 <strong>Постоянное развитие</strong> и новые вызовы</li>
+            <li>🎨 <strong>Реализация идей</strong> через визуальное воплощение</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Что делает веб-дизайнер?</h2>
+        <p>Веб-дизайнер создает не просто красивые сайты, а удобные и функциональные цифровые продукты, которые решают задачи пользователей и бизнеса.</p>
+    </div>
+
+    <div class="section">
+        <h2>С чего начать?</h2>
+        <ol>
+            <li>Изучить основы HTML и CSS</li>
+            <li>Освоить принципы UX/UI дизайна</li>
+            <li>Практиковаться на реальных проектах</li>
+            <li>Создать портфолио своих работ</li>
+        </ol>
+    </div>
+
+    <div class="section links">
+        <h2>Полезные ресурсы (гиперссылки):</h2>
+        <ul>
+            <li><a href="https://htmlacademy.ru" target="_blank">HTML Academy</a> - интерактивные курсы по HTML и CSS</li>
+            <li><a href="https://freelance.today/press/10-prichin-stat-veb-dizaynerom.html" target="_blank">10 причин стать веб-дизайнером</a></li>
+            <li><a href="https://habr.com/ru/articles/448038/" target="_blank">С чего начать в веб-дизайне</a></li>
+            <li><a href="https://www.webdesignerdepot.com/" target="_blank">Webdesigner Depot</a> - новости и тренды веб-дизайна</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Заключение</h2>
+        <p>Веб-дизайн — это не просто профессия, а возможность создавать цифровое будущее и влиять на то, как миллионы людей взаимодействуют с информацией в интернете.</p>
+    </div>
+</body>
+</html>
